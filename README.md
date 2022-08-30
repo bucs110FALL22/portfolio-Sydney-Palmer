@@ -10,8 +10,8 @@ Welcome to CS 110. I look forward to working with you this semester. This is you
 
 ## Student Info - MUST BE COMPLETED
 
-Preferred Name:
+Preferred Name: Sydney
 
-Discord username:
+Discord username: sydney#4781
 
-REPL url:
+REPL url: https://replit.com/@SydneyPalmer1/CS-110#main.py
