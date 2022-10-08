@@ -126,19 +126,20 @@ window.fill("black")
 
 coords = []
 num_sides = 360
-side_length = 500
+side_length = 50
 offset = 100
 
 for i in range (num_sides):
   theta = (2.0 * math.pi * (i)) / num_sides
   x = side_length * math.cos(theta) + offset
   y = side_length * math.sin(theta) + offset
-  points = (x.y)
+  points = (x, y)
   coords.append(points)
 
 pygame.time.wait(2500)
 pygame.draw.polygon(window,"red", coords)
 pygame.display.flip()
+pygame.time.wait(2500)
 window.fill("black")
 
 window.exitonclick() 
