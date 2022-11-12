@@ -13,3 +13,5 @@ def __str__(self):
   return F"x:{self.x} y:{self.y} width:{self.width} height:{self.height}"
 
 
+
+Rectangle (25, 50, 700, 900)

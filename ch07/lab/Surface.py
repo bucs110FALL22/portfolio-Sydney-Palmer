@@ -9,3 +9,5 @@ class Surface:
       This function returns the variable self.rect a rectangle that has been made based          off of the parameters. 
       '''
       return (self.rect)
+      print Rectangle
+
